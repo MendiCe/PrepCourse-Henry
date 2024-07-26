@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio prueba modulo 2 curso henry
+Este proyecto es una prueba sobre como clonar y guardarlo localmente.
